@@ -68,4 +68,4 @@ If you find any part of this code useful, please cite:
 ```
 
 ## Acknowledgement
-
+Thanks to authors of these great opensource projects: [Hloc](https://github.com/cvg/Hierarchical-Localization), [HSCNet](https://github.com/AaltoVision/hscnet), [D2S](https://github.com/ais-lab/d2s) for their contributions that we take inspiration from.
