@@ -126,6 +126,8 @@ python lightning/main.py --model sp_sg_attn \
                           --img_path /path/to/image \
 ```
 
+### Pretrained models
+
 ## Publication
 If you find any part of this code useful, please cite:
 ```
